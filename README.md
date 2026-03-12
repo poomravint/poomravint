@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 * 🧑  I'm Ravint Wongwaro
-* ⚙️  Developer and Embedded Engineer
+* ⚙️  Web-Developer and Embedded Engineer
 * 🌍  I'm based in Chonburi, Pattaya
 * ✉️  You can contact me at [poomravintwongwaro@gmail.com](mailto:poomravintwongwaro@gmail.com)
 * 🧠  I'm currently learning React, Node.js
